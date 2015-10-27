@@ -1,0 +1,15 @@
+@import 'reset.css';
+
+
+#page {
+	width: 75%;
+	margin: 0 auto; 
+}
+
+body { font-family: 'Orbityron', sans-serif; background-image: url(http://orig00.deviantart.net/415e/f/2012/296/f/8/16bit_metal_tech_by_tv16bit-d5icony.gif);
+color: white;
+}
+p {
+	border: 3px solid #000000;
+	background-color: black;
+	color: white;
